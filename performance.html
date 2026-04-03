@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Model Performance</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 30px; }
+        table { width: 80%; border-collapse: collapse; margin: 20px 0; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: center; }
+        th { background-color: #f2f2f2; }
+        .highlight { background-color: #d0ffd0; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<h1>Model Performance Metrics </h1>
+
+{% if error %}
+  <p style="color: red;">{{ error }}</p>
+{% else %}
+  <table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th> MAE</th>
+        <th> MSE</th>
+        <th> R² score</th>
+        <th> Accuracy</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for i in range(metrics.Model|length) %}
+      <tr {% if metrics.Model[i] == best_model %}class="highlight"{% endif %}>
+        <td>{{ metrics.Model[i] }}</td>
+        <td>{{ metrics.MAE[i] }}</td>
+        <td>{{ metrics.MSE[i] }}</td>
+        <td>{{ metrics.R2[i] }}</td>
+        <td>{{ metrics.Accuracy[i] }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <p><strong>Conclusion:</strong> {{ best_model }}</span> achieved the best overall performance based on  metrics.</p>
+{% endif %}
+
+</body>
+</html>

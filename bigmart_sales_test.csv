@@ -1,0 +1,201 @@
+Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales
+Item_0521,10.71,Regular,0.112,Soft Drinks,104.1,OUT_7,1985,Medium,Tier 2,Supermarket Type1,1092.24
+Item_0737,17.25,Regular,0.0371,Meat,207.87,OUT_6,1999,Medium,Tier 2,Grocery Store,1927.56
+Item_0740,11.94,Regular,0.1589,Meat,139.67,OUT_7,2009,Large,Tier 3,Supermarket Type3,1739.84
+Item_0660,10.34,Regular,0.1302,Soft Drinks,206.97,OUT_7,2004,Small,Tier 1,Supermarket Type1,1887.29
+Item_0411,19.25,Low Fat,0.1753,Meat,216.93,OUT_1,2004,Small,Tier 2,Grocery Store,1142.87
+Item_0678,19.54,Low Fat,0.1388,Soft Drinks,233.81,OUT_10,2009,Small,Tier 1,Grocery Store,2900.95
+Item_0626,11.94,Regular,0.1269,Baking Goods,202.24,OUT_9,2007,Small,Tier 1,Supermarket Type2,1421.97
+Item_0513,17.99,Regular,0.0278,Baking Goods,21.91,OUT_4,2007,Medium,Tier 3,Grocery Store,179.22
+Item_0859,5.99,Low Fat,0.0284,Dairy,224.97,OUT_10,1999,Small,Tier 2,Supermarket Type3,3291.6
+Item_0136,12.78,Regular,0.0799,Soft Drinks,242.34,OUT_6,1999,Large,Tier 1,Supermarket Type2,1305.42
+Item_0811,17.58,Low Fat,0.1748,Soft Drinks,105.44,OUT_3,2004,Large,Tier 3,Supermarket Type3,465.56
+Item_0076,16.57,Regular,0.0047,Meat,103.85,OUT_10,2009,Medium,Tier 2,Supermarket Type2,856.43
+Item_0636,12.99,Low Fat,0.0159,Household,17.79,OUT_4,2002,Large,Tier 3,Supermarket Type3,140.31
+Item_0973,8.22,Low Fat,0.1444,Meat,62.29,OUT_10,2009,Small,Tier 3,Grocery Store,522.35
+Item_0938,6.77,Low Fat,0.1083,Baking Goods,13.28,OUT_1,2009,Small,Tier 2,Supermarket Type1,27.27
+Item_0899,6.28,Regular,0.1274,Dairy,19.63,OUT_1,2007,Large,Tier 2,Supermarket Type1,180.57
+Item_0280,18.35,Regular,0.0077,Dairy,232.76,OUT_5,2002,Small,Tier 3,Supermarket Type3,2013.6
+Item_0883,6.56,Low Fat,0.0862,Soft Drinks,79.47,OUT_7,2004,Medium,Tier 3,Supermarket Type1,668.75
+Item_0761,9.68,Low Fat,0.1204,Dairy,203.3,OUT_1,2009,Small,Tier 3,Grocery Store,1637.37
+Item_0319,8.75,Low Fat,0.0764,Fruits and Vegetables,138.62,OUT_2,2004,Medium,Tier 2,Grocery Store,874.31
+Item_0549,16.58,Low Fat,0.0163,Household,76.59,OUT_3,2009,Small,Tier 2,Grocery Store,528.24
+Item_0174,14.68,Low Fat,0.158,Baking Goods,50.77,OUT_1,2004,Large,Tier 3,Supermarket Type2,515.14
+Item_0371,5.27,Regular,0.0427,Dairy,115.54,OUT_3,1999,Large,Tier 2,Supermarket Type2,1695.98
+Item_0527,9.1,Low Fat,0.1963,Meat,145.79,OUT_7,2002,Large,Tier 3,Supermarket Type2,849.94
+Item_0210,13.23,Low Fat,0.0304,Fruits and Vegetables,55.82,OUT_5,2009,Large,Tier 1,Supermarket Type1,449.61
+Item_0235,15.84,Regular,0.1773,Household,88.07,OUT_2,2009,Small,Tier 2,Grocery Store,917.82
+Item_0101,14.55,Low Fat,0.0647,Baking Goods,224.96,OUT_6,2007,Small,Tier 2,Grocery Store,1597.67
+Item_0986,15.33,Regular,0.0967,Household,230.42,OUT_3,1999,Large,Tier 2,Supermarket Type2,2418.72
+Item_0902,7.72,Low Fat,0.0819,Soft Drinks,80.58,OUT_3,2002,Small,Tier 3,Supermarket Type1,709.9
+Item_0947,18.5,Regular,0.0389,Soft Drinks,169.32,OUT_7,2002,Large,Tier 3,Supermarket Type2,1801.59
+Item_0346,14.53,Low Fat,0.0243,Fruits and Vegetables,225.37,OUT_9,2004,Medium,Tier 3,Supermarket Type3,2925.11
+Item_0139,19.58,Regular,0.1854,Fruits and Vegetables,27.79,OUT_1,1999,Large,Tier 3,Grocery Store,148.29
+Item_0621,8.14,Low Fat,0.101,Meat,225.61,OUT_5,2007,Small,Tier 3,Supermarket Type3,3244.01
+Item_0499,19.79,Regular,0.0564,Fruits and Vegetables,132.54,OUT_9,2007,Medium,Tier 1,Supermarket Type3,1723.72
+Item_0370,6.51,Regular,0.1636,Meat,242.26,OUT_6,2002,Small,Tier 3,Supermarket Type3,1427.61
+Item_0198,18.31,Regular,0.1926,Baking Goods,177.08,OUT_5,1985,Medium,Tier 1,Supermarket Type3,2118.38
+Item_0687,9.2,Regular,0.1532,Soft Drinks,167.54,OUT_2,2007,Medium,Tier 1,Supermarket Type1,1048.78
+Item_0584,14.5,Low Fat,0.1077,Meat,191.69,OUT_9,2007,Large,Tier 2,Grocery Store,2384.91
+Item_0901,5.4,Regular,0.0143,Baking Goods,248.07,OUT_10,2007,Large,Tier 3,Supermarket Type1,3225.39
+Item_0059,9.88,Low Fat,0.18,Soft Drinks,10.48,OUT_7,2004,Large,Tier 1,Supermarket Type1,-26.14
+Item_0328,11.29,Low Fat,0.1597,Baking Goods,95.18,OUT_4,2007,Small,Tier 2,Supermarket Type2,583.02
+Item_0096,12.84,Regular,0.0548,Household,90.93,OUT_9,2002,Small,Tier 1,Grocery Store,925.2
+Item_0312,5.38,Low Fat,0.053,Soft Drinks,14.59,OUT_8,1999,Medium,Tier 3,Supermarket Type2,90.4
+Item_0974,5.47,Low Fat,0.1067,Dairy,168.84,OUT_1,2007,Large,Tier 1,Supermarket Type3,1144.21
+Item_0299,6.28,Regular,0.0024,Meat,175.81,OUT_1,2004,Medium,Tier 2,Supermarket Type3,1805.17
+Item_0277,14.75,Regular,0.0875,Dairy,103.42,OUT_7,2007,Small,Tier 2,Supermarket Type2,1029.11
+Item_0924,11.38,Regular,0.0578,Fruits and Vegetables,160.08,OUT_9,2004,Large,Tier 2,Supermarket Type2,1279.36
+Item_0601,9.18,Low Fat,0.1066,Household,209.43,OUT_4,1999,Medium,Tier 2,Supermarket Type2,1508.28
+Item_0439,6.22,Low Fat,0.0154,Dairy,142.64,OUT_4,1999,Small,Tier 2,Supermarket Type2,1902.55
+Item_0837,10.44,Low Fat,0.0738,Meat,116.11,OUT_7,2002,Large,Tier 3,Supermarket Type2,1253.66
+Item_0570,12.71,Regular,0.1514,Fruits and Vegetables,49.07,OUT_4,1985,Large,Tier 2,Supermarket Type2,506.9
+Item_0879,8.33,Regular,0.1597,Household,200.52,OUT_1,2002,Medium,Tier 1,Supermarket Type1,1878.74
+Item_0261,19.85,Regular,0.1689,Soft Drinks,13.45,OUT_10,1999,Medium,Tier 3,Supermarket Type2,17.32
+Item_0578,12.38,Regular,0.197,Fruits and Vegetables,168.86,OUT_9,2004,Large,Tier 2,Grocery Store,812.86
+Item_0023,10.5,Low Fat,0.0203,Meat,79.4,OUT_1,2004,Large,Tier 3,Supermarket Type3,1078.69
+Item_0030,14.11,Low Fat,0.0623,Fruits and Vegetables,208.85,OUT_6,2004,Medium,Tier 2,Supermarket Type1,1780.16
+Item_0617,9.15,Low Fat,0.1231,Household,233.57,OUT_7,2007,Small,Tier 2,Supermarket Type1,3138.82
+Item_0010,5.31,Low Fat,0.1626,Dairy,193.47,OUT_8,2004,Small,Tier 1,Supermarket Type1,1031.43
+Item_0221,13.52,Low Fat,0.0243,Soft Drinks,177.75,OUT_7,2009,Medium,Tier 2,Supermarket Type2,1006.79
+Item_0820,17.04,Regular,0.1815,Dairy,22.14,OUT_1,2007,Medium,Tier 2,Supermarket Type3,236.59
+Item_0296,16.55,Low Fat,0.1433,Fruits and Vegetables,236.01,OUT_9,1999,Small,Tier 1,Grocery Store,2110.43
+Item_0054,13.97,Low Fat,0.0456,Dairy,53.02,OUT_8,2004,Medium,Tier 3,Supermarket Type2,602.13
+Item_0542,8.43,Low Fat,0.1047,Dairy,156.75,OUT_3,2009,Small,Tier 2,Supermarket Type1,2151.32
+Item_0209,7.41,Low Fat,0.13,Baking Goods,74.68,OUT_6,1999,Medium,Tier 1,Supermarket Type1,644.48
+Item_0604,6.81,Low Fat,0.1587,Household,137.55,OUT_9,2002,Small,Tier 2,Grocery Store,744.53
+Item_0692,12.61,Regular,0.1341,Household,110.24,OUT_5,2004,Large,Tier 1,Supermarket Type3,1206.16
+Item_0662,14.09,Regular,0.0705,Dairy,94.2,OUT_9,1999,Large,Tier 1,Supermarket Type1,1355.22
+Item_0866,7.33,Regular,0.0246,Fruits and Vegetables,171.54,OUT_5,2007,Medium,Tier 1,Grocery Store,1950.84
+Item_0070,16.58,Low Fat,0.1173,Household,35.28,OUT_2,2004,Small,Tier 1,Supermarket Type1,411.59
+Item_0543,15.08,Regular,0.023,Household,172.84,OUT_2,1985,Small,Tier 3,Supermarket Type1,1744.98
+Item_0107,16.33,Low Fat,0.1601,Meat,26.57,OUT_9,2007,Medium,Tier 1,Grocery Store,160.32
+Item_0493,7.82,Regular,0.0271,Household,105.49,OUT_4,1999,Large,Tier 3,Supermarket Type1,1505.92
+Item_0590,7.08,Regular,0.1551,Fruits and Vegetables,106.58,OUT_2,1999,Small,Tier 3,Grocery Store,1352.55
+Item_0741,9.52,Regular,0.0069,Meat,212.72,OUT_10,1999,Small,Tier 1,Supermarket Type1,2094.8
+Item_0292,17.34,Low Fat,0.1024,Dairy,119.14,OUT_10,2004,Small,Tier 3,Supermarket Type3,1435.95
+Item_0289,13.86,Low Fat,0.1037,Fruits and Vegetables,181.62,OUT_1,2007,Large,Tier 3,Supermarket Type3,1862.53
+Item_0652,13.8,Regular,0.1424,Soft Drinks,176.08,OUT_4,2007,Medium,Tier 3,Supermarket Type2,994.99
+Item_0039,11.6,Low Fat,0.105,Soft Drinks,220.32,OUT_9,2009,Large,Tier 3,Grocery Store,2851.11
+Item_0589,7.28,Low Fat,0.0761,Household,108.69,OUT_3,2007,Medium,Tier 1,Grocery Store,1046.53
+Item_0307,9.84,Regular,0.037,Household,179.23,OUT_9,2007,Large,Tier 2,Supermarket Type2,2070.02
+Item_0679,17.98,Low Fat,0.1025,Meat,38.47,OUT_1,2002,Medium,Tier 1,Supermarket Type1,333.3
+Item_0066,7.11,Regular,0.1335,Meat,49.78,OUT_7,2007,Large,Tier 3,Supermarket Type2,605.44
+Item_0275,12.52,Low Fat,0.0631,Soft Drinks,116.15,OUT_3,2007,Large,Tier 2,Supermarket Type1,1192.88
+Item_0067,17.03,Low Fat,0.0191,Meat,223.81,OUT_10,2009,Medium,Tier 2,Supermarket Type3,1585.88
+Item_0318,7.35,Low Fat,0.1249,Household,240.62,OUT_9,1985,Medium,Tier 3,Supermarket Type3,2734.45
+Item_0548,12.8,Regular,0.1087,Soft Drinks,187.38,OUT_6,2004,Large,Tier 1,Supermarket Type1,2211.41
+Item_0998,19.25,Regular,0.1961,Fruits and Vegetables,139.67,OUT_8,2002,Medium,Tier 2,Supermarket Type1,782.32
+Item_0714,10.23,Regular,0.1453,Meat,47.64,OUT_7,2004,Medium,Tier 1,Supermarket Type2,176.13
+Item_0753,10.02,Regular,0.1659,Meat,75.28,OUT_8,2007,Medium,Tier 2,Supermarket Type1,510.87
+Item_0327,14.18,Low Fat,0.1937,Household,152.28,OUT_9,2007,Large,Tier 3,Supermarket Type1,2022.61
+Item_0382,14.43,Regular,0.1273,Dairy,60.52,OUT_1,2009,Medium,Tier 3,Supermarket Type3,500.1
+Item_0451,13.38,Regular,0.0441,Meat,242.78,OUT_3,2002,Large,Tier 1,Supermarket Type1,2526.22
+Item_0522,19.55,Regular,0.1874,Household,190.18,OUT_5,2009,Medium,Tier 2,Supermarket Type1,965.86
+Item_0218,14.74,Regular,0.1967,Fruits and Vegetables,192.6,OUT_6,1999,Medium,Tier 2,Supermarket Type3,2004.47
+Item_0787,11.01,Low Fat,0.0663,Soft Drinks,13.98,OUT_7,2002,Large,Tier 2,Supermarket Type2,78.01
+Item_0436,6.09,Regular,0.054,Fruits and Vegetables,127.51,OUT_3,2009,Small,Tier 2,Grocery Store,1051.52
+Item_0764,5.5,Low Fat,0.1214,Household,197.99,OUT_4,1999,Medium,Tier 1,Supermarket Type2,1556.25
+Item_0088,18.31,Regular,0.0856,Household,130.03,OUT_10,2007,Medium,Tier 2,Supermarket Type2,680.66
+Item_0063,10.35,Regular,0.055,Baking Goods,48.73,OUT_3,2002,Large,Tier 3,Supermarket Type3,635.77
+Item_0826,10.2,Regular,0.1642,Meat,206.15,OUT_1,2002,Medium,Tier 1,Grocery Store,2971.04
+Item_0716,17.46,Regular,0.1659,Soft Drinks,20.06,OUT_1,1999,Small,Tier 1,Grocery Store,202.12
+Item_0351,17.85,Low Fat,0.1632,Dairy,24.97,OUT_7,2004,Large,Tier 1,Grocery Store,262.79
+Item_0936,5.28,Regular,0.0771,Dairy,89.67,OUT_9,2007,Large,Tier 3,Grocery Store,1118.07
+Item_0256,19.04,Low Fat,0.1919,Household,198.1,OUT_7,2002,Large,Tier 2,Supermarket Type1,1512.03
+Item_0635,11.71,Regular,0.1781,Baking Goods,187.33,OUT_8,2002,Medium,Tier 2,Grocery Store,1748.89
+Item_0644,6.8,Low Fat,0.0942,Baking Goods,206.5,OUT_4,2002,Medium,Tier 3,Supermarket Type1,1501.57
+Item_0554,18.15,Low Fat,0.17,Meat,179.5,OUT_7,1985,Large,Tier 3,Supermarket Type2,2216.19
+Item_0959,16.07,Low Fat,0.0804,Baking Goods,107.58,OUT_4,2004,Large,Tier 2,Supermarket Type3,1149.65
+Item_0168,5.61,Regular,0.0233,Fruits and Vegetables,202.72,OUT_4,2007,Medium,Tier 1,Grocery Store,1571.74
+Item_0917,19.23,Low Fat,0.0078,Fruits and Vegetables,148.09,OUT_10,2002,Small,Tier 3,Supermarket Type2,1429.4
+Item_0528,5.85,Regular,0.0513,Soft Drinks,232.99,OUT_9,2004,Medium,Tier 2,Supermarket Type2,1229.21
+Item_0823,10.97,Regular,0.0619,Dairy,203.36,OUT_6,1985,Medium,Tier 3,Supermarket Type2,1825.4
+Item_0985,12.43,Regular,0.1962,Soft Drinks,209.56,OUT_8,2007,Large,Tier 3,Supermarket Type3,2574.65
+Item_0816,13.87,Regular,0.0549,Household,75.16,OUT_6,1985,Large,Tier 3,Supermarket Type2,792.45
+Item_0086,15.94,Regular,0.139,Soft Drinks,178.52,OUT_4,2007,Small,Tier 3,Supermarket Type1,1250.14
+Item_0432,14.27,Regular,0.1121,Meat,238.35,OUT_5,1985,Medium,Tier 3,Supermarket Type1,2630.77
+Item_0184,8.87,Low Fat,0.0265,Meat,161.77,OUT_10,2004,Medium,Tier 2,Grocery Store,1520.99
+Item_0978,12.45,Low Fat,0.025,Dairy,184.91,OUT_2,2002,Large,Tier 1,Supermarket Type3,1614.63
+Item_0534,16.53,Regular,0.1217,Soft Drinks,196.06,OUT_9,2009,Medium,Tier 3,Supermarket Type3,980.17
+Item_0294,6.91,Regular,0.0083,Fruits and Vegetables,172.61,OUT_8,2007,Medium,Tier 2,Grocery Store,1100.07
+Item_0892,17.45,Regular,0.0861,Dairy,234.26,OUT_7,2009,Large,Tier 1,Supermarket Type3,2161.87
+Item_0425,13.24,Low Fat,0.0186,Fruits and Vegetables,216.35,OUT_9,1985,Medium,Tier 1,Supermarket Type1,1960.62
+Item_0713,11.18,Regular,0.1926,Fruits and Vegetables,53.63,OUT_2,2009,Small,Tier 3,Grocery Store,681.84
+Item_0260,14.23,Low Fat,0.0909,Baking Goods,65.68,OUT_3,2002,Large,Tier 2,Supermarket Type1,861.66
+Item_0237,5.36,Low Fat,0.0389,Soft Drinks,249.08,OUT_10,2009,Medium,Tier 2,Supermarket Type2,3395.36
+Item_0559,14.3,Regular,0.1091,Soft Drinks,28.95,OUT_6,2009,Large,Tier 2,Supermarket Type1,279.76
+Item_0583,9.93,Regular,0.1818,Soft Drinks,206.18,OUT_6,2002,Large,Tier 3,Supermarket Type3,2335.99
+Item_0445,19.21,Low Fat,0.1035,Soft Drinks,76.87,OUT_1,2002,Medium,Tier 2,Supermarket Type1,835.16
+Item_0867,7.73,Regular,0.1117,Soft Drinks,207.84,OUT_2,1985,Medium,Tier 2,Supermarket Type3,1042.25
+Item_0800,15.61,Regular,0.1605,Soft Drinks,22.15,OUT_6,2004,Large,Tier 1,Grocery Store,130.59
+Item_0599,5.61,Low Fat,0.0792,Household,92.11,OUT_8,1985,Medium,Tier 1,Grocery Store,746.54
+Item_0849,13.93,Regular,0.002,Meat,108.03,OUT_6,2004,Small,Tier 2,Supermarket Type2,901.65
+Item_0265,16.11,Low Fat,0.0649,Soft Drinks,19.35,OUT_3,2004,Small,Tier 3,Grocery Store,144.49
+Item_0995,6.37,Low Fat,0.0985,Fruits and Vegetables,95.58,OUT_6,2002,Small,Tier 1,Supermarket Type1,540.36
+Item_0529,17.97,Low Fat,0.1308,Fruits and Vegetables,102.96,OUT_2,1999,Medium,Tier 3,Supermarket Type3,1354.3
+Item_0055,18.83,Low Fat,0.0424,Fruits and Vegetables,176.55,OUT_10,2004,Small,Tier 1,Supermarket Type1,1604.64
+Item_0120,17.11,Regular,0.093,Baking Goods,90.07,OUT_3,1985,Large,Tier 3,Supermarket Type2,772.17
+Item_0215,8.56,Regular,0.199,Meat,168.87,OUT_4,1999,Large,Tier 3,Supermarket Type2,1613.81
+Item_0025,16.78,Regular,0.0514,Baking Goods,69.99,OUT_5,2007,Small,Tier 3,Supermarket Type2,749.62
+Item_0072,5.08,Regular,0.1474,Soft Drinks,134.61,OUT_6,1999,Small,Tier 1,Grocery Store,774.05
+Item_0044,8.88,Regular,0.1926,Dairy,56.53,OUT_3,2004,Large,Tier 3,Supermarket Type2,467.4
+Item_0247,19.5,Low Fat,0.052,Fruits and Vegetables,203.6,OUT_9,1999,Medium,Tier 1,Supermarket Type1,1141.77
+Item_0721,7.72,Low Fat,0.1081,Fruits and Vegetables,65.53,OUT_2,1999,Large,Tier 1,Supermarket Type1,341.19
+Item_0281,10.07,Low Fat,0.1804,Fruits and Vegetables,232.99,OUT_9,1999,Medium,Tier 3,Supermarket Type2,1627.1
+Item_0893,10.96,Low Fat,0.0285,Dairy,175.38,OUT_10,2007,Large,Tier 3,Grocery Store,976.65
+Item_0914,13.28,Low Fat,0.1011,Household,152.62,OUT_9,1999,Medium,Tier 3,Grocery Store,1861.76
+Item_0810,19.77,Low Fat,0.1015,Baking Goods,151.2,OUT_2,1999,Large,Tier 1,Supermarket Type2,1729.39
+Item_0244,5.23,Regular,0.0832,Fruits and Vegetables,249.73,OUT_3,2004,Medium,Tier 3,Supermarket Type2,2650.18
+Item_0822,10.0,Low Fat,0.1216,Meat,209.77,OUT_5,1985,Medium,Tier 1,Supermarket Type1,2294.37
+Item_0321,15.72,Regular,0.0243,Fruits and Vegetables,106.45,OUT_10,2004,Medium,Tier 3,Supermarket Type3,656.56
+Item_0643,9.91,Low Fat,0.0629,Meat,235.2,OUT_2,2007,Large,Tier 2,Supermarket Type1,3104.4
+Item_0158,8.56,Regular,0.0794,Meat,126.16,OUT_1,2007,Medium,Tier 1,Supermarket Type2,684.68
+Item_0977,5.77,Low Fat,0.1581,Fruits and Vegetables,13.9,OUT_3,1985,Large,Tier 1,Supermarket Type3,61.3
+Item_0429,6.76,Low Fat,0.013,Fruits and Vegetables,192.99,OUT_8,2004,Medium,Tier 2,Supermarket Type2,1065.24
+Item_0941,13.31,Low Fat,0.1083,Soft Drinks,16.68,OUT_2,2004,Medium,Tier 1,Supermarket Type3,95.45
+Item_0462,16.19,Low Fat,0.168,Baking Goods,171.46,OUT_7,2004,Large,Tier 1,Supermarket Type3,1530.35
+Item_0309,9.06,Low Fat,0.0197,Household,170.26,OUT_2,2007,Large,Tier 1,Grocery Store,1869.4
+Item_0697,13.72,Regular,0.1729,Household,28.43,OUT_5,2002,Medium,Tier 2,Grocery Store,302.29
+Item_0060,10.83,Low Fat,0.0707,Baking Goods,182.5,OUT_9,1999,Small,Tier 3,Grocery Store,1602.21
+Item_0884,17.0,Regular,0.0638,Baking Goods,122.24,OUT_3,1999,Large,Tier 3,Supermarket Type1,944.4
+Item_0595,12.11,Regular,0.1586,Meat,175.85,OUT_5,1999,Small,Tier 2,Supermarket Type3,2252.85
+Item_0767,18.15,Low Fat,0.1405,Meat,16.18,OUT_10,2007,Large,Tier 2,Supermarket Type3,104.04
+Item_0649,12.48,Regular,0.1656,Household,93.4,OUT_2,2004,Small,Tier 2,Grocery Store,677.27
+Item_0650,6.3,Regular,0.067,Dairy,22.08,OUT_8,2004,Large,Tier 1,Supermarket Type3,108.22
+Item_0865,13.39,Low Fat,0.0087,Meat,208.26,OUT_9,2007,Medium,Tier 2,Supermarket Type1,2323.36
+Item_0668,7.8,Low Fat,0.1352,Household,122.01,OUT_5,1985,Medium,Tier 2,Supermarket Type1,1255.91
+Item_0298,14.34,Low Fat,0.0143,Fruits and Vegetables,130.09,OUT_9,2009,Small,Tier 3,Supermarket Type2,1348.89
+Item_0689,7.81,Regular,0.133,Dairy,144.93,OUT_1,2004,Medium,Tier 2,Grocery Store,1078.43
+Item_0314,17.54,Low Fat,0.0164,Dairy,156.33,OUT_8,2002,Medium,Tier 2,Supermarket Type2,1710.54
+Item_0310,11.58,Regular,0.1321,Dairy,210.97,OUT_9,2009,Large,Tier 2,Supermarket Type3,1334.65
+Item_0361,14.65,Regular,0.1312,Meat,60.59,OUT_5,2009,Medium,Tier 3,Supermarket Type2,497.21
+Item_0479,12.85,Low Fat,0.1684,Household,19.61,OUT_9,2009,Large,Tier 1,Supermarket Type2,186.55
+Item_0110,9.35,Regular,0.176,Baking Goods,160.82,OUT_2,2009,Medium,Tier 2,Supermarket Type2,814.55
+Item_0989,17.29,Regular,0.0751,Meat,106.49,OUT_10,1999,Medium,Tier 3,Supermarket Type2,1103.84
+Item_0486,5.68,Regular,0.1456,Fruits and Vegetables,192.54,OUT_1,2007,Small,Tier 2,Supermarket Type2,1123.38
+Item_0363,13.18,Regular,0.109,Meat,122.59,OUT_3,1999,Large,Tier 2,Supermarket Type2,1449.84
+Item_0254,7.54,Regular,0.1952,Meat,15.38,OUT_5,2004,Small,Tier 3,Grocery Store,97.43
+Item_0259,6.46,Low Fat,0.1096,Baking Goods,167.04,OUT_3,2009,Large,Tier 2,Supermarket Type2,901.27
+Item_0802,13.64,Regular,0.1025,Dairy,147.75,OUT_9,2002,Medium,Tier 1,Grocery Store,1559.85
+Item_0677,10.97,Regular,0.1286,Dairy,82.79,OUT_2,2004,Large,Tier 3,Supermarket Type1,964.21
+Item_0494,11.96,Low Fat,0.1503,Meat,208.61,OUT_2,1999,Large,Tier 3,Supermarket Type3,1511.68
+Item_0670,7.6,Low Fat,0.1373,Baking Goods,211.82,OUT_8,1999,Small,Tier 3,Supermarket Type2,3083.79
+Item_0377,5.35,Regular,0.1017,Dairy,41.12,OUT_10,2002,Large,Tier 3,Supermarket Type2,260.41
+Item_0526,11.22,Low Fat,0.1462,Household,172.57,OUT_5,2002,Small,Tier 1,Supermarket Type2,2224.8
+Item_0845,11.22,Regular,0.1337,Fruits and Vegetables,46.94,OUT_6,1985,Small,Tier 2,Grocery Store,407.12
+Item_0137,15.55,Regular,0.0305,Meat,25.98,OUT_1,2007,Medium,Tier 1,Grocery Store,327.85
+Item_0355,14.64,Low Fat,0.0504,Fruits and Vegetables,206.07,OUT_2,2009,Medium,Tier 1,Grocery Store,1709.77
+Item_0365,10.79,Low Fat,0.1875,Household,34.23,OUT_3,2004,Small,Tier 3,Grocery Store,398.08
+Item_0942,14.77,Low Fat,0.1524,Meat,161.53,OUT_8,2002,Medium,Tier 3,Supermarket Type2,1932.5
+Item_0749,14.36,Regular,0.023,Meat,84.03,OUT_10,2002,Medium,Tier 2,Supermarket Type1,414.35
+Item_0948,18.11,Regular,0.0115,Dairy,241.67,OUT_8,2004,Large,Tier 1,Supermarket Type3,2225.92
+Item_0829,11.78,Low Fat,0.0102,Dairy,118.01,OUT_1,1999,Large,Tier 2,Supermarket Type2,685.97
+Item_0656,9.26,Low Fat,0.0284,Baking Goods,70.69,OUT_9,1999,Small,Tier 2,Grocery Store,855.06
+Item_0199,16.7,Low Fat,0.1099,Dairy,101.87,OUT_2,2009,Small,Tier 1,Grocery Store,952.14
+Item_0213,8.36,Low Fat,0.092,Soft Drinks,152.87,OUT_5,1999,Large,Tier 3,Supermarket Type3,970.15
+Item_0408,18.58,Low Fat,0.0654,Baking Goods,147.83,OUT_5,2004,Small,Tier 1,Supermarket Type1,1991.24
+Item_0332,5.22,Regular,0.1165,Household,30.3,OUT_2,2002,Large,Tier 1,Supermarket Type1,309.39
+Item_0208,5.08,Regular,0.1239,Household,87.88,OUT_9,2002,Large,Tier 1,Supermarket Type3,398.44
+Item_0613,6.23,Regular,0.1788,Household,226.58,OUT_8,2007,Small,Tier 1,Supermarket Type1,2065.35
+Item_0078,10.38,Low Fat,0.1214,Soft Drinks,62.69,OUT_3,2007,Small,Tier 1,Supermarket Type3,836.05
